@@ -16,4 +16,3 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg) -->
 
-![Snake animation]
