@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Montero Avalos Gian Franco</h1>
 <h3 align="center">A passionate Backend developer from Argentine</h3>
 
-- 💬 Ask me about *Java and JavaScript**
+- 💬 Ask me about *Java**
 
 - 📫 How to reach me **gianmonteroavalos@gmail.com**
 
